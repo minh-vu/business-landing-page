@@ -7,13 +7,13 @@ var Page = {
     CTA: "",
     brief: "",
     // ============= VARS ==============
-    url : "http://www.digitalife.top/", //-- co slash cuoi /
-    mainkeyWord : "mở kênh online marketing",
-    longkeyWords : ["mở kênh online nhanh chóng", "thu hút khách hàng online"],
+    url : "", //-- co slash cuoi /
+    mainkeyWord : "",
+    longkeyWords : [""],
     facebookAppId : "303370230021409", //-- your appID
     googleAnalyticId : "UA-82197343-2", //-- your id
-    formId: "https://docs.google.com/forms/d/e/1FAIpQLScjBXL-M0eRB0qhX1xSV5sWWAwsXbNqtjAGm3aq0-l5EZAisg/viewform?embedded=true",
-    // formId: ""
+    //formId: "https://docs.google.com/forms/d/e/1FAIpQLScjBXL-M0eRB0qhX1xSV5sWWAwsXbNqtjAGm3aq0-l5EZAisg/viewform?embedded=true",
+    formId: ""
 }
 
 var Social = {
